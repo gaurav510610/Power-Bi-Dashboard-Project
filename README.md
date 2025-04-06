@@ -1,5 +1,6 @@
 ## Super-Store Sales-Dashboard using Power BI
 ![image alt](https://github.com/gaurav510610/Power-Bi-Dashboard-Project/blob/main/the-logo-on-the-front-of-a-real-canadian-superstore-a-supermarket-KT6XFR.jpg?raw=true)
+
 Power BI dashboards can be a helpfull tool to provide insights into sales performance and trends of an organization.
 This dashboard empowers decision-makers to make data-driven decisions and optimize sales strategies. I'm eager to contribute to the superstore's continued success by utilizing advanced analytics and forecasting techniques.
 
